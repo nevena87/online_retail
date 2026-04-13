@@ -202,5 +202,4 @@ Online Retail.pbix
 ## 📬 Author
 
 Nevena Ćulibrk
-Aspiring Data Analyst | SQL | Python | Power BI
-Serbia
+- Aspiring Data Analyst | SQL | Python | Power BI
